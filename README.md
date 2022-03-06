@@ -75,13 +75,11 @@ praj75629@gmail.com, will try my best to reply within 24 hrs🏁!
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
     <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Hacker Rank" src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white"></a>
     <a href="#"><img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white"></a>
     <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white"></a>
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?ogo=windows&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"></a>     
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>     
 </p>
 <br>
 

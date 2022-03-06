@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Hey, I am second year Computer Science Student at <a href="http://www.unb.br">CHARUSAT University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">.
 
 ***
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120">
 
 - 💬 Ask me anything!
      Always ready to help!🤩

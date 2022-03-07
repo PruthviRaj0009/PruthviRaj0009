@@ -40,7 +40,6 @@ praj75629@gmail.com, will try my best to reply within 24 hrs🏁!
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=PruthviRaj0009&show_icons=true&include_all_commits=true&theme=bear&hide_border=true" alt="Pruthvi's github stats">
 </p>
 <br>
-<br>
 
 <h2 align="center">🛠️ My favorite tools</h2>
 

@@ -34,7 +34,7 @@ praj75629@gmail.com, will try my best to reply within 24 hrs🏁!
 
 <!-- - 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf) -->
      
-## ⚡ Stats ⚡<br>
+<h2 align="center">⚡ Stats ⚡</h2>
 <p>
      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PruthviRaj0009&theme=bear&hide_border=true" alt="Pruthvi's github stats">
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=PruthviRaj0009&show_icons=true&include_all_commits=true&theme=bear&hide_border=true" alt="Pruthvi's github stats">
@@ -42,7 +42,8 @@ praj75629@gmail.com, will try my best to reply within 24 hrs🏁!
 <br>
 <br>
 
-## 🛠️ My favorite tools<br>
+<h2 align="center">🛠️ My favorite tools</h2>
+
 ### 👨‍💻 Programming languages
 
 <p>

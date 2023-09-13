@@ -66,6 +66,7 @@ praj75629@gmail.com, will try my best to reply within 24 hrs🏁!
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
